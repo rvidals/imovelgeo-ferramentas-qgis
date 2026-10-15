@@ -109,4 +109,4 @@ Os comandos de processamento abrem os diálogos oficiais do QGIS ou do LF Tools.
 
 ---
 
-> “Com ciência, dados e colaboração, construímos cidades mais resilientes!”
+> “Com ciência, dados e colaboração, construímos cidades mais resilientes!” 🌱🌏
