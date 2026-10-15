@@ -1,0 +1,32 @@
+[general]
+name=ImovelGEO Ferramentas
+description=Atalhos organizados para ferramentas nativas do QGIS e do LF Tools.
+about=O complemento ImovelGEO Ferramentas reune em um unico menu comandos de processamento usados na rotina de producao do ImovelGEO.
+    
+	Principais funcionalidades:
+	- acesso ao algoritmo Poligonizar do QGIS;
+	- acesso ao algoritmo Recortar vetorial do QGIS;
+	- acesso ao algoritmo Corrigir geometria do QGIS;
+	- acesso ao Georreferenciador nativo do QGIS;
+	- acesso aos algoritmos Azimute e Distancia e Poligonal Fechada do provedor LF Tools;
+	- ferramentas organizadas nos submenus QGIS e LF Tools;
+	- menu inserido na barra de menus do QGIS, imediatamente depois de CGGEO Tools 1.2;
+	- localizacao automatica do algoritmo do LF Tools pelo provedor de processamento;
+	- aviso orientativo quando o complemento LF Tools nao esta instalado ou habilitado.
+    
+	O complemento nao cria uma barra de ferramentas propria. Os comandos ficam disponiveis no menu ImovelGEO Ferramentas.
+version=1.4.0
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+author=Rogerio Vidal de Siqueira
+email=rogeriovidalsiqueira@gmail.com
+category=Vector
+tags=ImovelGEO, processamento, geometria, azimute, distancia, LF Tools, cadastro imobiliario
+icon=icon.svg
+experimental=False
+deprecated=False
+changelog=1.4.0 - Adicionados Georreferenciamento e Poligonal Fechada; ferramentas organizadas por provedor em submenus QGIS e LF Tools.
+	1.3.0 - Integracao corrigida com o algoritmo Azimute e Distancia do provedor de processamento LF Tools 2.10.3.
+	1.2.0 - Removida a barra de ferramentas propria; os comandos passaram a ficar disponiveis somente no menu da barra de menus.
+	1.1.0 - Criado o menu ImovelGEO Ferramentas e posicionamento automatico imediatamente depois de CGGEO Tools 1.2.
+	1.0.0 - Criacao do complemento com atalhos para Poligonizar, Recortar, Corrigir geometria e Azimute e Distancia.
