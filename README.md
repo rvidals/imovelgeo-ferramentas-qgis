@@ -101,11 +101,11 @@ Os comandos de processamento abrem os diálogos oficiais do QGIS ou do LF Tools.
 └── README.md
 ~~~
 
-## Contato
+## 📩 Contato
 
-**Rogerio Vidal de Siqueira**  \
-E-mail: [rogeriovidalsiqueira@gmail.com](mailto:rogeriovidalsiqueira@gmail.com)  \
-[LinkedIn](https://www.linkedin.com/in/rogerio-vidal-de-siqueira-9478aa136/) | [GitHub](https://github.com/rvidals)
+👤 **Rogerio Vidal de Siqueira**\
+📧 rogeriovidalsiqueira@gmail.com\
+🔗 [LinkedIn](https://www.linkedin.com/in/rogerio-vidal-de-siqueira-9478aa136/) | [GitHub](https://github.com/rvidals)
 
 ---
 
